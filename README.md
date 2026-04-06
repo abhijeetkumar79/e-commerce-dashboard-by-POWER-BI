@@ -67,4 +67,4 @@ Writing DAX measures for KPI tracking
 Data cleaning and transformation
 Converting raw sales data into insights
 🔗 Project Links
-📁 GitHub Repository: [Add link]
+📁 GitHub Repository: https://github.com/abhijeetkumar79/e-commerce-dashboard-by-POWER-BI.git
